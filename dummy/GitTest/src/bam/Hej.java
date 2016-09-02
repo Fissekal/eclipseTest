@@ -17,6 +17,7 @@ public class Hej {
 		for(int j = 0; j < i; j++) {
 			System.out.println("BANGBANG!");
 			System.out.println("AND ANOTHER BANG!");
+			System.out.println("Pull my finger");
 		}
 	}
 
